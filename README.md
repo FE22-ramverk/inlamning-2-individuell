@@ -39,3 +39,8 @@ Studenten skall med stor säkerhet ha applicerat ovanstående tekniker.
 * Mobilvy
 * Med uppdatera objekt menas att objektet uppdateras på något vis på befintliga värden
 * 
+
+### Steg:
+1. Hitta ett ämne du vill ha i ditt projekt
+2. Hämta json-datan, spara i redux store
+3. Tänk ut hur/när delarna lägg till objekt, ta bort och uppdatera skall ske
