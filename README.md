@@ -4,7 +4,7 @@
 * React
 * Redux
 * Routing
-* SASS
+* SASS (nesting, variabler, mixins)
 
 ### Funktionalitet:
 * Du skall mappa ut objekt från en json
