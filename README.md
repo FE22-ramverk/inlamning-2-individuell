@@ -34,3 +34,8 @@ Studenten skall med stor säkerhet ha applicerat ovanstående tekniker.
 * D&D (https://open5e.com/)
 * MTG (https://magicthegathering.io/)
 * Drönar- och helikoperparkeringar (https://helipaddy.com/api/)
+
+### Övrigt:
+* Mobilvy
+* Med uppdatera objekt menas att objektet uppdateras på något vis på befintliga värden
+* 
