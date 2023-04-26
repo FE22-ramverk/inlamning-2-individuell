@@ -12,7 +12,7 @@
 * Kunna ta bort objekt från store
 * Lägga till nya objekt i store
 * Uppdatera objekt
-* Ta bort objekt
+* Läsa av objekt
 
 Ni skall med hjälp av ovanstående tekniker skapa en applikation i React.js. Er applikation skall ha statehantering i Redux.
 
